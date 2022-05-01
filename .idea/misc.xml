@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/ANDROID_PROJEKTIT/MorseCodeKeyboard/app/src/main/res/layout-land/activity_main.xml" value="0.4691358024691358" />
+        <entry key="..\:/ANDROID_PROJEKTIT/MorseCodeKeyboard/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.415625" />
         <entry key="..\:/ANDROID_PROJEKTIT/MorseCodeKeyboard/app/src/main/res/layout/activity_main.xml" value="0.48188405797101447" />
       </map>
     </option>
