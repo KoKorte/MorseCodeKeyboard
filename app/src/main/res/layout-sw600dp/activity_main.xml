@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/comma"
+        android:layout_width="199dp"
+        android:layout_height="114dp"
+        android:text=","
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="11dp"
+        tools:layout_editor_absoluteY="148dp" />
+
+    <Button
+        android:id="@+id/dot"
+        android:layout_width="199dp"
+        android:layout_height="114dp"
+        android:text="."
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="11dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <Button
+        android:id="@+id/short1"
+        android:layout_width="246dp"
+        android:layout_height="411dp"
+        android:text="SHORT"
+        tools:layout_editor_absoluteX="228dp"
+        tools:layout_editor_absoluteY="1dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/space"
+        android:layout_width="199dp"
+        android:layout_height="114dp"
+        android:text="Space"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="11dp"
+        tools:layout_editor_absoluteY="268dp" />
+
+    <Button
+        android:id="@+id/long1"
+        android:layout_width="246dp"
+        android:layout_height="411dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="484dp"
+        tools:layout_editor_absoluteY="1dp"
+        tools:ignore="MissingConstraints" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
