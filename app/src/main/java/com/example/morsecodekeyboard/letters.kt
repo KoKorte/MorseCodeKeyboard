@@ -40,4 +40,5 @@ fun letters() {
     dictionary.put("8" , " " )
     dictionary.put("9" , " " )
     dictionary.put("0" , " " )
+
 }
