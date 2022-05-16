@@ -11,7 +11,7 @@
         android:id="@+id/comma"
         android:layout_width="199dp"
         android:layout_height="114dp"
-        android:text="comma"
+        android:text="."
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="11dp"
         tools:layout_editor_absoluteY="148dp" />
@@ -20,7 +20,7 @@
         android:id="@+id/dot"
         android:layout_width="199dp"
         android:layout_height="114dp"
-        android:text="dot"
+        android:text=","
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="11dp"
         tools:layout_editor_absoluteY="16dp" />
@@ -30,15 +30,15 @@
         android:layout_width="246dp"
         android:layout_height="411dp"
         android:text="SHORT"
+        tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="228dp"
-        tools:layout_editor_absoluteY="1dp"
-        tools:ignore="MissingConstraints" />
+        tools:layout_editor_absoluteY="1dp" />
 
     <Button
         android:id="@+id/space"
         android:layout_width="199dp"
         android:layout_height="114dp"
-        android:text="Space"
+        android:text="SPACE"
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="11dp"
         tools:layout_editor_absoluteY="268dp" />
