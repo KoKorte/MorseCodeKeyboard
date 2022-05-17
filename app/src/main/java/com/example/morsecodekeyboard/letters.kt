@@ -1,6 +1,6 @@
 package com.example.morsecodekeyboard
 
-fun letters() {
+fun letterLibrary() {
     val dictionary =  HashMap<String, String> ()
     dictionary.put(" " , " " )
     dictionary.put("A" , ".-" )
